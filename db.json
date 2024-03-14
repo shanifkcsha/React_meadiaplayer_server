@@ -1,0 +1,113 @@
+{
+  "allvideos": [
+    {
+      "caption": "Bullet Train",
+      "url": "https://www.youtube.com/embed/0IOsk2Vlc4o?si=_hmZx2fV0WzVCRhP",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ08jc4GloTxkOUNq9BpeNHqO3sMQDEkzb_aCWw7sAIO1SKGUjzpFQq5zgMAdAMEKlzv8jN",
+      "id": 1
+    },
+    {
+      "caption": "Inception",
+      "url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRyuWmayVBvqjd1MxTKpRgauq2cCtUzb7Q9QvaFTkAuxAU_EYMoCE3wBuJeftxIzf0grreIw",
+      "id": 2
+    },
+    {
+      "caption": "Game of Thrones",
+      "url": "https://www.youtube.com/embed/rlR4PJn8b8I?si=_hmZx2fV0WzVCRhP",
+      "image": "https://pixel.nymag.com/imgs/daily/vulture/2019/04/04/got-recap/02-got-seasons-recap-illo.w1100.h733.jpg",
+      "id": 3
+    },
+    {
+      "caption": "One Piece",
+      "url": "https://www.youtube.com/embed/k0_5hs4VOHo?si=_hmZx2fV0WzVCRhP",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2YwYTkwNjItNGQzNy00MWE1LWE1M2ItOTMzOGI1OWQyYjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+      "id": 4
+    },
+    {
+      "caption": "Death at a Funeral",
+      "url": "https://www.youtube.com/embed/LkbR3nQqcrk?si=_hmZx2fV0WzVCRhP",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Death_at_a_Funeral_2010_Poster.jpg",
+      "id": 5
+    },
+    {
+      "caption": "Spider-Man: No Way Home",
+      "url": "https://www.youtube.com/embed/JfVOs4VSpmA?si=_hmZx2fV0WzVCRhP",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXG-39ax_uSWVuU05XI2eynuf0D9rcrNmFBJfCDIm_K9A2SUdFTMRREZ7JVqliTX3NodG9A",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Comedy",
+      "videos": [],
+      "id": 1
+    },
+    {
+      "name": "Movie",
+      "videos": [
+        {
+          "caption": "Bullet Train",
+          "url": "https://www.youtube.com/embed/0IOsk2Vlc4o?si=_hmZx2fV0WzVCRhP",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ08jc4GloTxkOUNq9BpeNHqO3sMQDEkzb_aCWw7sAIO1SKGUjzpFQq5zgMAdAMEKlzv8jN",
+          "id": 1
+        },
+        {
+          "caption": "Game of Thrones",
+          "url": "https://www.youtube.com/embed/rlR4PJn8b8I?si=_hmZx2fV0WzVCRhP",
+          "image": "https://pixel.nymag.com/imgs/daily/vulture/2019/04/04/got-recap/02-got-seasons-recap-illo.w1100.h733.jpg",
+          "id": 3
+        },
+        {
+          "caption": "Inception",
+          "url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRyuWmayVBvqjd1MxTKpRgauq2cCtUzb7Q9QvaFTkAuxAU_EYMoCE3wBuJeftxIzf0grreIw",
+          "id": 2
+        },
+        {
+          "caption": "Spider-Man: No Way Home",
+          "url": "https://www.youtube.com/embed/JfVOs4VSpmA?si=_hmZx2fV0WzVCRhP",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXG-39ax_uSWVuU05XI2eynuf0D9rcrNmFBJfCDIm_K9A2SUdFTMRREZ7JVqliTX3NodG9A",
+          "id": 6
+        },
+        {
+          "caption": "Death at a Funeral",
+          "url": "https://www.youtube.com/embed/LkbR3nQqcrk?si=_hmZx2fV0WzVCRhP",
+          "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Death_at_a_Funeral_2010_Poster.jpg",
+          "id": 5
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Trailer",
+      "videos": [
+        {
+          "caption": "Inception",
+          "url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRyuWmayVBvqjd1MxTKpRgauq2cCtUzb7Q9QvaFTkAuxAU_EYMoCE3wBuJeftxIzf0grreIw",
+          "id": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Song",
+      "videos": [],
+      "id": 4
+    },
+    {
+      "name": "Documentaries",
+      "videos": [],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "Bullet Train",
+      "url": "https://www.youtube.com/embed/0IOsk2Vlc4o?si=_hmZx2fV0WzVCRhP",
+      "datetime": "Wed Mar 13 2024 10:44:09 GMT+0530 (India Standard Time)",
+      "id": 1
+    }
+  ]
+}
